@@ -46,7 +46,7 @@ namespace week9suggestionbox.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "RecordNum,Topic,Suggestion")] Suggestionmodel suggestionmodel)
+        public ActionResult Create([Bind(Include = "RecordNum,Name,Topic,Suggestion")] Suggestionmodel suggestionmodel)
         {
             if (ModelState.IsValid)
             {
@@ -78,7 +78,7 @@ namespace week9suggestionbox.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "RecordNum,Topic,Suggestion")] Suggestionmodel suggestionmodel)
+        public ActionResult Edit([Bind(Include = "RecordNum,Name,Topic,Suggestion")] Suggestionmodel suggestionmodel)
         {
             if (ModelState.IsValid)
             {

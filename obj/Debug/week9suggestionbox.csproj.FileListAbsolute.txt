@@ -55,3 +55,6 @@ c:\users\wecancodeit\documents\visual studio 2015\Projects\week9suggestionbox\we
 c:\users\wecancodeit\documents\visual studio 2015\Projects\week9suggestionbox\week9suggestionbox\bin\EntityFramework.SqlServer.dll
 c:\users\wecancodeit\documents\visual studio 2015\Projects\week9suggestionbox\week9suggestionbox\bin\EntityFramework.xml
 c:\users\wecancodeit\documents\visual studio 2015\Projects\week9suggestionbox\week9suggestionbox\bin\EntityFramework.SqlServer.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\week9suggestionbox\week9suggestionbox\obj\Debug\week9suggestionbox.Migrations.InitialCreate.resources
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\week9suggestionbox\week9suggestionbox\obj\Debug\week9suggestionbox.csproj.GenerateResource.Cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\week9suggestionbox\week9suggestionbox\obj\Debug\week9suggestionbox.Migrations.AddTeam.resources
